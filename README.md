@@ -1,20 +1,14 @@
-# Striver C++ DSA Solutions
+# Striver C++ DSA Solutions 🚀
 
-This repository contains my solutions to Striver's DSA Sheet implemented in C++.  
-The goal of this repository is to strengthen problem-solving skills and prepare for software engineering interviews.
+This repository contains my solutions to Striver's Take U Forward DSA Sheet implemented in C++.
 
-## Topics Covered
-- Arrays
-- Strings
-- Linked Lists
-- Stack & Queue
-- Recursion & Backtracking
-- Trees
-- Graphs
-- Dynamic Programming
+## Goal
+- Improve problem solving skills
+- Master data structures and algorithms
+- Prepare for software engineering interviews
 
 ## Language
 C++
 
-## Practice Source
-Striver's Take U Forward DSA Sheet
+## Practice Platform
+Take U Forward (Striver DSA Sheet)
