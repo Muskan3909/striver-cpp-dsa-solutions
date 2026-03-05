@@ -12,3 +12,16 @@ C++
 
 ## Practice Platform
 Take U Forward (Striver DSA Sheet)
+
+
+## Progress Tracker
+
+| Topic | Problems Solved |
+|------|------|
+| Arrays | 22 |
+| Strings | 10 |
+| Linked List | 5 |
+| Stack & Queue | 0 |
+| Trees | 0 |
+| Graphs | 0 |
+| Dynamic Programming | 0 |
