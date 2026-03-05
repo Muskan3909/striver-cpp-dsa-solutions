@@ -1,2 +1,20 @@
-# striver-cpp-dsa-solutions
-This repository contains solutions to Striver's DSA Sheet problems covering Arrays, Strings, Linked List, Recursion, Dynamic Programming, Graphs, and more. Implemented in C++ with clean code and explanations.
+# Striver C++ DSA Solutions
+
+This repository contains my solutions to Striver's DSA Sheet implemented in C++.  
+The goal of this repository is to strengthen problem-solving skills and prepare for software engineering interviews.
+
+## Topics Covered
+- Arrays
+- Strings
+- Linked Lists
+- Stack & Queue
+- Recursion & Backtracking
+- Trees
+- Graphs
+- Dynamic Programming
+
+## Language
+C++
+
+## Practice Source
+Striver's Take U Forward DSA Sheet
