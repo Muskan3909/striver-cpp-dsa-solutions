@@ -1,0 +1,49 @@
+## Problem
+A string s containing both uppercase and lowercase characters, where words are separated by spaces. Find the word with minimum length and maximum length.If there are multiple words with the same minimum length, select the first occurring word, and in case of same maximum length, select the last occurring such word.
+
+Examples:
+
+Input : s = "Hi from Gfg"
+Output : [Hi, from]
+Input : s = "water WATER evEry WHere BUT nor a Drop to Drink"
+Output : [a, Drink]
+
+Constraints:
+1 <= s.size() <= 105
+
+
+## solution
+class Solution {
+  public:
+    vector<string> smallerAndLarge(string &s) {
+        // code here
+        string small = "";
+        string large = "";
+        int len1 = 1e5;
+        int len2 = 0;
+        int i =0;
+        int n = s.size();
+        while(i<n){
+            string word = "";
+            while(i<n && s[i] == ' '){
+                i++;
+            }
+            while(i<n && s[i] != ' '){
+                word += s[i];
+                i++;
+            }
+            if(word.size()>0){
+                if(word.size() < len1){
+                    small = word;
+                    len1 = word.size();
+                }
+                if(word.size() >= len2){
+               
+                    large = word;
+                    len2 = word.size();
+                }
+            }
+        }
+        return{small,large};
+        }
+};
