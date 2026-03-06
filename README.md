@@ -19,7 +19,7 @@ Take U Forward (Striver DSA Sheet)
 | Topic | Problems Solved |
 |------|------|
 | Arrays | 22 |
-| Strings | 10 |
+| Strings | 12 |
 | Linked List | 5 |
 | Stack & Queue | 0 |
 | Trees | 0 |
