@@ -18,6 +18,7 @@ Take U Forward (Striver DSA Sheet)
 
 | Topic | Problems Solved |
 |------|------|
+| basic maths | 7 |
 | Arrays | 22 |
 | Strings | 12 |
 | Linked List | 5 |
