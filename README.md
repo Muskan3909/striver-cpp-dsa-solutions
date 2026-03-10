@@ -13,6 +13,11 @@ C++
 ## Practice Platform
 Take U Forward (Striver DSA Sheet)
 
+## 🚀 Recommended Prep Resource
+
+Alongside solving Striver’s DSA sheet, I’ve been using [TUF+](https://takeuforward.org/plus?affiliate=MUSKAN_7418) for structured roadmaps, mock tests, and AI-powered doubt support.  
+It’s helped me stay consistent and confident while preparing for SDE interviews.
+
 
 ## Progress Tracker
 
